@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1601232362 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\3 ed\Árvore binária de busca\arvorebinariabusca\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+
+1601232053 e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\3 ed\Árvore binária de busca\arvorebinariabusca\arvorebinariabusca.h
+
+1601430912 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\3 ed\Árvore binária de busca\arvorebinariabusca\arvorebinariabusca.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+
+1729121677 source:c:\users\aluno\desktop\arvorebinariabusca\arvorebinariabusca.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<queue>
+	"ArvoreBinariaBusca.h"
+
+1729121647 c:\users\aluno\desktop\arvorebinariabusca\arvorebinariabusca.h
+
+1729121703 source:c:\users\aluno\desktop\arvorebinariabusca\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+

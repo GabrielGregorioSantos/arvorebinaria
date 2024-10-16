@@ -1,0 +1,3 @@
+/home/paulo-noe/Downloads/Unifagoc/ALGORITMOS E ESTRUTURAS DE DADOS/ESTUDO DIRIGIDO 3/AED - 3 ED - Parte 1 - Código Fonte - Árvore Binária de Busca/ArvoreBinariaBusca/cmake-build-debug/CMakeFiles/ArvoreBinariaBusca.dir
+/home/paulo-noe/Downloads/Unifagoc/ALGORITMOS E ESTRUTURAS DE DADOS/ESTUDO DIRIGIDO 3/AED - 3 ED - Parte 1 - Código Fonte - Árvore Binária de Busca/ArvoreBinariaBusca/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/paulo-noe/Downloads/Unifagoc/ALGORITMOS E ESTRUTURAS DE DADOS/ESTUDO DIRIGIDO 3/AED - 3 ED - Parte 1 - Código Fonte - Árvore Binária de Busca/ArvoreBinariaBusca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
